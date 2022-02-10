@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
-![This is an image](https://miro.medium.com/max/1400/1*VtyyqeknbxhQXJb1B6v6HQ.jpeg)
+![This is an image](https://c4.wallpaperflare.com/wallpaper/836/933/123/keep-calm-coder-programming-code-wallpaper-preview.jpg)
 
- ## ***this is roman***
+  ***I am Computer Science & Engineering student, who is passionate about making open-source more assemble.
+  Some technologies i enjoy working with include Flutter***
