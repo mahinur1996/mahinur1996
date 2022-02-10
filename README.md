@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![This is an image](https://c4.wallpaperflare.com/wallpaper/836/933/123/keep-calm-coder-programming-code-wallpaper-preview.jpg)
 
   ***I am Computer Science & Engineering student, who is passionate about making open-source more assemble.
-  Some technologies i enjoy working with include Flutter***
+  I like technologies and enjoy working with include Programming***
